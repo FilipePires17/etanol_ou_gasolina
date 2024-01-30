@@ -1,16 +1,8 @@
-# etanol_ou_gasolina
+# Etanol ou Gasolina
 
-A new Flutter project.
+Aplicativo simples para decidir se compensa mais abastecer o carro com Etanol ou com Gasolina.
 
-## Getting Started
+## Motivação
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+O Etanol é melhor ao meu ver por ser mais ecologicamente correto, porém o preço ainda é um fator muito importante, portanto decidi fazer esse app para ajudar a fazer a escolha.
+A relação é bem simples, o Etanol possui 70% da eficiência da Gasolina, portanto geralmente compensa mais usar Etanol caso seu preço seja igual ou inferior ao preço da Gasolina multiplicado por 0.7.
